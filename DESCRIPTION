@@ -1,0 +1,12 @@
+Package: Two.Sample.Testing
+Title: Evaluate 4 Test Statistics with Permutation Test to Evaluate Significance
+Version: 0.0.0.9000
+Authors@R: 
+    person("Allen (I-Lun)", "Tu", , "i.lun.tu.stat@gmail.com", role = c("aut", "cre"))
+Description: Functions to calculate 4 different statistics with permutation methods for significance evaluation, nearest neighbor test statistics(NNT), energy-based test statistics(EBT), Hotelling's T-squared statistics(HTT), and graphed-based two-sample statistics(GST) and the accompanying permutation functions.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Imports: 
+    RANN
